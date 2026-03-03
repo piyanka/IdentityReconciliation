@@ -1,0 +1,20 @@
+{
+  "name": "identityreconciliation",
+  "version": "1.0.0",
+  "description": "Identify and keep track of a customer's identity across multiple purchases.",
+  "homepage": "https://github.com/piyanka/IdentityReconciliation#readme",
+  "bugs": {
+    "url": "https://github.com/piyanka/IdentityReconciliation/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piyanka/IdentityReconciliation.git"
+  },
+  "license": "ISC",
+  "author": "Priyanka Kumari",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
